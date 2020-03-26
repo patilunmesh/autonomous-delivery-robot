@@ -6,6 +6,8 @@
 input:: global path assumed to be sufficiently dense or arbitrated.
 		separate node to publish 360 contour point list from segmap and lidar inputs
 bot dimensions 34 cm x 45 cm
+
+TODO::::  Code optimisation
 '''
 ########################################### section 1 imports
 
